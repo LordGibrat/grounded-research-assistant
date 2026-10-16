@@ -1,10 +1,12 @@
 # Grounded — Citation-first research assistant
 
-Grounded is a front-end prototype for a student research project: an AI assistant that answers questions about academic papers while showing the exact passages supporting each answer.
+**A citation-first research assistant interface for exploring academic papers.** It shows an answer beside the passages that would support it.
+
+This is a static front-end prototype with a small built-in paper library and prepared answers. It does not parse uploaded PDFs, retrieve new passages, or call a language model.
 
 ## Run it
 
-Open index.html in a browser. No build step or dependencies are required.
+Open [`index.html`](index.html) in a browser. No build step, account, or API key is required.
 
 ## Portfolio / MBZUAI framing
 
